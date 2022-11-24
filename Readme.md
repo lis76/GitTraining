@@ -1,7 +1,7 @@
 # It's a sample project for GitHub training
 
 
-We jut commit html to trin in our git accaunt.
+We just commit html to train in our git account.
 
 fgjfgifkjlfgjkjhfk
 
